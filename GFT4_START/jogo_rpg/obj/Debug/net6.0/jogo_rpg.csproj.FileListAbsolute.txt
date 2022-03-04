@@ -1,0 +1,15 @@
+/home/neres/Documentos/GFT4_START/jogo_rpg/bin/Debug/net6.0/jogo_rpg
+/home/neres/Documentos/GFT4_START/jogo_rpg/bin/Debug/net6.0/jogo_rpg.deps.json
+/home/neres/Documentos/GFT4_START/jogo_rpg/bin/Debug/net6.0/jogo_rpg.runtimeconfig.json
+/home/neres/Documentos/GFT4_START/jogo_rpg/bin/Debug/net6.0/jogo_rpg.dll
+/home/neres/Documentos/GFT4_START/jogo_rpg/bin/Debug/net6.0/jogo_rpg.pdb
+/home/neres/Documentos/GFT4_START/jogo_rpg/obj/Debug/net6.0/jogo_rpg.csproj.AssemblyReference.cache
+/home/neres/Documentos/GFT4_START/jogo_rpg/obj/Debug/net6.0/jogo_rpg.GeneratedMSBuildEditorConfig.editorconfig
+/home/neres/Documentos/GFT4_START/jogo_rpg/obj/Debug/net6.0/jogo_rpg.AssemblyInfoInputs.cache
+/home/neres/Documentos/GFT4_START/jogo_rpg/obj/Debug/net6.0/jogo_rpg.AssemblyInfo.cs
+/home/neres/Documentos/GFT4_START/jogo_rpg/obj/Debug/net6.0/jogo_rpg.csproj.CoreCompileInputs.cache
+/home/neres/Documentos/GFT4_START/jogo_rpg/obj/Debug/net6.0/jogo_rpg.dll
+/home/neres/Documentos/GFT4_START/jogo_rpg/obj/Debug/net6.0/refint/jogo_rpg.dll
+/home/neres/Documentos/GFT4_START/jogo_rpg/obj/Debug/net6.0/jogo_rpg.pdb
+/home/neres/Documentos/GFT4_START/jogo_rpg/obj/Debug/net6.0/jogo_rpg.genruntimeconfig.cache
+/home/neres/Documentos/GFT4_START/jogo_rpg/obj/Debug/net6.0/ref/jogo_rpg.dll
